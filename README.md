@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HamidMandi
-- 👀 I’m interested in designing and developing devices on Brain Computer Interface (BCI) technology
+- 👀 I’m interested in designing and developing devices base on Brain Computer Interface (BCI) technology
 - 📫  reach me: hamid@dal.ca
 
 <!---
